@@ -36,8 +36,7 @@ mécaniques
 et 
 thermiques.
 
-Contribution to the study of durability of cementitious 
-composites made with recycled PET aggregates 
+# Contribution to the study of durability of cementitious composites made with recycled PET aggregates 
 Abstract : 
 The plastics are used in large amounts in food packaging. Their recycling is a major concern. 
 Their material valorization in cementitious materials is an interesting way, well adapted to 
